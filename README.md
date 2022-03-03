@@ -1,4 +1,4 @@
-# Game-of-Life
+# Game of Life
 Game project called: Game of Life. Created by mathematician John Horton Conway in 1970
 
 
@@ -12,3 +12,7 @@ The evolution of life is subject to certain grand rules; that is, whether the ce
 ## About
 The project was made with vanilla JavaScript and an HTML file to render the canvas.
 The project will be improved in the future with new features
+
+
+
+
